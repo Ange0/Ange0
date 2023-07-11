@@ -2,7 +2,7 @@ Salut à tous! 👋
 
 Je suis Yao Kouassi Ange ✨
 
-👨‍💻 Un développeur passionné. Mon objectif est de créer des expériences utilisateur exceptionnelles et des applications performantes.
+👨‍💻 Développeur passionné. Mon objectif est de créer des expériences utilisateur exceptionnelles et des applications performantes.
 
 🚀 Mes amis du momment sont :
 

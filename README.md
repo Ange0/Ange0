@@ -1,4 +1,4 @@
-Salut à tous! 👋
+Salut ! 👋
 
 Je suis Yao Kouassi Ange ✨
 

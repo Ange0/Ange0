@@ -14,7 +14,7 @@ Je suis Yao Kouassi Ange ✨
 
 ⚙️ Laravel: Mon fidèle compagnon dans le domaine du backend. Il me permet de créer des applications web robustes et sécurisées en un rien de temps. 🌐
 
-📦 En parallèle de mon travail, je travaille actuellement sur une application de gestion de stock (GestyonStok). J'utilise Electron.js et Node.js pour le processus principal, tandis que React.js et Tailwind CSS donnent vie à l'interface utilisateur. 💼
+📦 En parallèle de mon travail, je travaille actuellement sur une application de gestion de stock (GestyonStok). J'utilise Electron.js, Node.js pour le processus principal, tandis que React.js et Tailwind CSS donnent vie à l'interface utilisateur c'est à dire pour le processus de rendu. 💼
 
 💬 N'hésitez pas à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter du développement web et des nouvelles technologies. Je suis ouvert aux opportunités intéressantes! 📧
 

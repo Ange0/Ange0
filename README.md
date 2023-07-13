@@ -4,7 +4,7 @@ Je suis Yao Kouassi Ange ✨
 
 👨‍💻 Développeur passionné. Mon objectif est de créer des expériences utilisateur exceptionnelles et des applications performantes.
 
-🚀 Mes amis du momment sont :
+🚀 Mes amis du moment sont :
 
 💻 React.js: Il est tout simplement incroyable pour créer des interfaces utilisateur modernes et performantes rapidement. ⚛️
 

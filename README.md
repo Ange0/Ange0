@@ -16,6 +16,6 @@ Je suis Yao Kouassi Ange ✨
 
 📦 En parallèle de mon travail, je travaille actuellement sur une application desktop de gestion de stock (GestyonStok). J'utilise Electron.js, Node.js pour le processus principal, tandis que React.js et Tailwind CSS donnent vie à l'interface utilisateur c'est à dire pour le processus de rendu. 💼
 
-💬 N'hésitez pas à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter du développement web et des nouvelles technologies. Je suis ouvert aux opportunités intéressantes! 📧
+💬 N'hésitez pas à me contacter (+225 05 85 54 03 90) si vous avez des questions, des idées de collaboration ou simplement pour discuter du développement web et des nouvelles technologies. Je suis ouvert aux opportunités intéressantes! 📧
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub. J'ai hâte d'échanger avec vous! 😊👍

@@ -20,7 +20,7 @@ Je suis Yao Kouassi Ange ✨
 
 💨 Tailwind CSS: Un outil fantastique pour accélérer le processus de conception et obtenir des résultats visuels impressionnants. 🎨
 
-📦 En parallèle de mon travail, je travaille actuellement sur une application mobile (Faniko) https://faniko.ci, dont l'objectif principal est de permettre à tout Ivoirien d'avoir un environnement propre, quel que soit son niveau de vie, grâce à son système de parrainage performant qui récompense le parrain d'un bonus de 1000 CFA (Tchênou) après prestation chez son invité. 💼
+📦 En parallèle de mon travail, je travaille actuellement sur une application mobile (Faniko) https://faniko.ci, dont l'objectif principal est de permettre à tout Ivoirien d'avoir un environnement propre, quel que soit son niveau de vie, grâce à son système de parrainage performant qui récompense le parrain d'un bonus de 1000 CFA , 2000 FCFA, 5000 FCFA ou même 10000 FCFA (Tchênou) après prestation chez son invité. 💼
 
 💬 N'hésitez pas à me contacter par whatsapp (+225 05 85 54 03 90) si vous avez des questions, des idées de collaboration ou simplement pour discuter du développement web et des nouvelles technologies. Je suis ouvert aux opportunités intéressantes ! 📧
 

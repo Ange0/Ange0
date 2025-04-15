@@ -2,28 +2,27 @@ Salut ! 👋
 
 Je suis Yao Kouassi Ange ✨
 
-👨‍💻 Développeur passionné avec plusieurs années d’expérience, je m’engage à créer des expériences utilisateur exceptionnelles et des applications sur mesure, performantes et modernes.
+👨‍💻 Développeur passionné avec plusieurs années d'expérience. Mon objectif est de créer des expériences utilisateur exceptionnelles et des applications performantes sur mesure.
 
-🚀 Mes outils de prédilection :
+🚀 Mes amis du moment sont :
 
-💻 React.js : Idéal pour construire des interfaces modernes, dynamiques et performantes. ⚛️
-📱 React Native : Pour développer des applications mobiles fluides et réactives.
-📱 Flutter : Parfait pour créer des apps multiplateformes avec une seule base de code.
-🌟 Vue.js : Un autre excellent framework pour des applications élégantes et intuitives. 🖖
-🚀 Next.js : Pour des sites et apps web ultra rapides et bien structurés avec React.
-⚙️ Laravel : Mon allié backend pour des solutions robustes, sécurisées et rapides à mettre en place. 🌐
-💨 Tailwind CSS : Pour un design rapide, responsive et esthétique. 🎨
+💻 React.js : Il est tout simplement incroyable pour créer des interfaces utilisateur modernes et performantes rapidement. ⚛️
 
-📦 Côté projets :
+📱 React Native : Pour le développement d'applications mobiles fluides et réactives.
 
-Je travaille actuellement sur deux applications :
+📱 Flutter : Pour la création d'applications mobiles multiplateformes avec une seule base de code.
 
-Faniko (www.faniko.ci) — Une plateforme qui permet à tout Ivoirien d’avoir un environnement propre, quel que soit son niveau de vie, grâce à un système de parrainage innovant.
+🌟 Vue.js : Un autre excellent choix pour développer des applications élégantes et réactives. 🖖
 
-WhatJob (www.what-job.com) — Une application qui aide les demandeurs d’emploi à trouver rapidement un emploi ou un stage grâce à l’intelligence artificielle.
+🚀 Next.js : Pour la création d'applications web modernes et performantes avec React.js.
 
-💬 Restons en contact !
-Vous avez une question, une idée de collaboration ou juste envie de parler tech ? N’hésitez pas à m’écrire sur WhatsApp (+225 05 85 54 03 90). Je suis toujours ouvert aux opportunités et aux échanges enrichissants.
+⚙️ Laravel : Mon fidèle compagnon dans le domaine du backend. Il me permet de créer des applications web robustes et sécurisées en un rien de temps. 🌐
 
-Merci d’avoir visité mon profil GitHub.
-Au plaisir d’échanger avec vous ! 😊👍
+💨 Tailwind CSS : Un outil fantastique pour accélérer le processus de conception et obtenir des résultats visuels impressionnants. 🎨
+
+📦 En parallèle de mon travail, je travaille actuellement sur deux applications : une application (Faniko) [https://faniko.ci], dont l'objectif principal est de permettre à tout Ivoirien d'avoir un environnement propre, quel que soit son niveau de vie, grâce à son système de parrainage performant, et une autre application (WhatJob) [https://what-job.com], dont l'objectif est de permettre aux demandeurs d'emploi de trouver très rapidement un emploi grâce à l'intelligence artificielle.
+
+💬 N'hésitez pas à me contacter par WhatsApp (+225 05 85 54 03 90) si vous avez des questions, des idées de collaboration ou simplement pour discuter du développement web et des nouvelles technologies. Je suis ouvert aux opportunités intéressantes ! 📧
+
+Merci d'avoir pris le temps de parcourir mon profil GitHub. J'ai hâte d'échanger avec vous ! 😊👍
+
